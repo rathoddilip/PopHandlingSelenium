@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.selenium.popuphandling.test.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-29T10:48:17" hostname="arjun-HP-Laptop-15-bs0xx" time="15.835">
+  <properties/>
+  <testcase name="login_to_application" classname="com.selenium.popuphandling.test.LoginTest" time="15.835"/>
+  <system-out><![CDATA[Get title:The Professional Courier
+ur https://tpcindia.com/Admin/signin.aspx
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
